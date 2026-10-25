@@ -1,8 +1,5 @@
 using UnityEngine;
 
-// Made by Hz! thanks for buying!
-// and if you didnt pay, you stink
-
 namespace PhysicsVRrigRC
 {
     public class PhysicsRig : MonoBehaviour
