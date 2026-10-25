@@ -2,9 +2,6 @@ using UnityEngine;
 using easyInputs;
 using Photon.Pun;
 
-// Made by Hz! thanks for buying!
-// and if you didnt pay, you stink
-
 namespace PhysicsVRrigRC
 {
     public class GrabPhysics : MonoBehaviour
